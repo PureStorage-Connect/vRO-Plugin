@@ -32,7 +32,6 @@
 <li>Enhanced protection group information</li>
 <li>Throughput limits</li>
 <li>Volume Groups</li>
-<li>Pure1 REST API integration</li>
 <li>Protocol Endpoints</li>
 <li>Host Personality</li>
 <li>Various bug fixes</li>
