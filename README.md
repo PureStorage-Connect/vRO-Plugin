@@ -50,5 +50,5 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>For questions,&nbsp;<a href="https://codeinvite.purestorage.com/">join our Pure Storage Code Slack</a>&nbsp;team! Check out the #PowerCLI channel</p>
+<p>For questions,&nbsp;<a href="https://codeinvite.purestorage.com/">join our Pure Storage Code Slack</a>&nbsp;team! Check out the #vRealizeOrchestrator channel</p>
 <!-- /wp:paragraph -->
