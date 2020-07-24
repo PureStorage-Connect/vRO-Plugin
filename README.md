@@ -20,7 +20,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong>Latest version 3.0.0 (May 16th, 2019)</strong></p>
+<p><strong>Latest version 3.5.0 (July 24th, 2020)</strong></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -28,13 +28,11 @@
 <!-- /wp:paragraph -->
 
 <ul>
-<li>ActiveCluster support</li>
-<li>Enhanced protection group information</li>
-<li>Throughput limits</li>
-<li>Volume Groups</li>
-<li>Protocol Endpoints</li>
-<li>Host Personality</li>
-<li>Various bug fixes</li>
+<li>Integrated Pure1 Authentication</li>
+<li>Integration of vVol Workflow Package</li>
+<li>Integration of Pure1 Workflow Package</li>
+<li>FlashBlade Authentication</li>
+<li>Various fixes/improvements</li>
 </ul>
 
 <!-- wp:separator -->
