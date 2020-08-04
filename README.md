@@ -33,6 +33,7 @@
 <li>Integration of Pure1 Workflow Package</li>
 <li>FlashBlade Authentication</li>
 <li>Various fixes/improvements</li>
+<li>QoS Integration</li>
 </ul>
 
 <!-- wp:separator -->
